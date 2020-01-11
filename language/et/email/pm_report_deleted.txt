@@ -1,0 +1,7 @@
+Subject: Raport kustutatud - "{PM_SUBJECT}"
+
+Tere {USERNAME},
+
+Saad selle teate, sest raport, mille esitasid privaatsõnumi "{PM_SUBJECT}" kohta lehel "{SITENAME}" kustutati moderaatori või administraatori poolt.
+
+{EMAIL_SIG}

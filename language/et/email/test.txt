@@ -1,0 +1,9 @@
+Subject: phpBB on konfigureeritud saatmaks e-kirju
+
+Tere, {USERNAME}!
+
+Õnnitleme, kui said selle e-kirja! phpBB on nüüd konfigureeritud saatma e-kirju.
+
+Juhul, kui vajate abi, siis palun külastage phpBB tugifoorumit - https://www.phpbb.com/community/
+
+{EMAIL_SIG}
